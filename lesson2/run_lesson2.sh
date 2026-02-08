@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-rustc lesson1.rs
-./lesson1
+rustc lesson2.rs
+./lesson2
