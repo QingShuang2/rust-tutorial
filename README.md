@@ -7,6 +7,7 @@ A step-by-step Rust programming tutorial covering fundamental concepts.
 - [Lesson 1: Basics](lesson1/README.md) - Variables, mutability, basic types, and control flow
 - [Lesson 2: Ownership and Borrowing](lesson2/README.md) - String, &str, ownership, borrowing, and slices
 - [Lesson 3: Structs and Methods](lesson3/README.md) - Custom data types, implementation blocks, and associated functions
+- [Lesson 4: Enums and Pattern Matching](lesson4/README.md) - Defining enums, pattern matching with match and if let
 
 ## Getting Started
 
