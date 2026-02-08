@@ -1,0 +1,4 @@
+# macOS debug symbols
+*.dSYM
+
+lesson1/lesson1
